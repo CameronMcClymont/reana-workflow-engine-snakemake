@@ -2,6 +2,18 @@
 
 # Changelog
 
+## [0.9.5](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/compare/0.9.4...0.9.5) (2025-09-03)
+
+
+### Continuous integration
+
+* **commitlint:** fix local running of commit linter on macOS ([#111](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/issues/111)) ([87de837](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/commit/87de837f53b1626b0333ac9939edb083cb909943))
+* **jsonlint:** add JSON linting ([#113](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/issues/113)) ([7bf64ad](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/commit/7bf64ad0ec6b58e97502217805c5e3d72f16ada9))
+* **markdownlint:** add Markdown linting ([#113](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/issues/113)) ([0caa994](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/commit/0caa994d41fcc67451676fe78e223f9f31259a42))
+* **prettier:** add Prettier code formatting checks ([#113](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/issues/113)) ([c281daf](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/commit/c281daf1be8bb1baa95b55cc3557622afe87eba9))
+* **shfmt:** add shell script formatting checks ([#113](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/issues/113)) ([365c940](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/commit/365c940ce6cf0471f06181499f7d3ae82b1f02f8))
+* **yamllint:** add YAML linting ([#113](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/issues/113)) ([396408d](https://github.com/CameronMcClymont/reana-workflow-engine-snakemake/commit/396408df6879590e1802b9e6a2c950794268905f))
+
 ## [0.9.4](https://github.com/reanahub/reana-workflow-engine-snakemake/compare/0.9.3...0.9.4) (2024-11-29)
 
 ### Build
